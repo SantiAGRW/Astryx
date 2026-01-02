@@ -5,13 +5,28 @@
 Astryx is a Windows-native downloader focused on **sustained throughput, reliability, and visibility** rather than burst scraping.  
 It combines a high-performance backend with a real-time local Web UI.
 
+## Project Status
+
+Astryx is a personal / hobby project developed by an amateur programmer and released publicly as an early v0.x build; the project is actively developed and may change as the author continues learning and refining the implementation.
+
+The codebase evolved organically to solve real-world reliability and performance
+issues rather than to showcase clean architecture or idiomatic patterns.
+
+Some areas are intentionally monolithic or redundant in favor of:
+- debuggability
+- predictable behavior
+- sustained throughput
+
+Refactoring and cleanup are ongoing but not a prerequisite for use.
+
+
 ---
 
 ## Features
 
 ### Local Web UI
 - Runs locally at `http://127.0.0.1`
-- Real-time telemetry, queue status, and logs
+- Real-time local telemetry (queue status, host health, logs)
 - No external server or cloud dependency
 - Browser-based control panel
 
@@ -42,12 +57,44 @@ It combines a high-performance backend with a real-time local Web UI.
 
 ---
 
-## Status
+## Project History
 
-This is the **first public release**.  
-The project is actively developed and focused on correctness, performance, and observability.
+This project began as a WinForms application named `CMDownloaderUI`,
+was later rebranded as `AstroFetch`,
+and has since evolved into a Web UI–first application named `Astryx`.
+
+The WinForms layer currently remains as a Windows host shell responsible for:
+- process lifetime
+- system integration
+- orchestration of background workers
+
+The primary user interface is the local Web UI.
 
 ---
+
+## What This Project Is / Is Not
+
+**This is:**
+- A practical, Windows-native tool
+- Optimized for long-running, observable workloads
+- Built to solve specific problems encountered in real use
+
+**This is not:**
+- A framework
+- A reference implementation
+- An example of ideal or minimal C# architecture
+
+---
+
+## Safety & Privacy
+
+- Runs entirely locally
+- No external telemetry (nothing is sent off-machine)
+- No cloud services
+- No automatic uploads
+- No bundled credentials
+
+All network activity is user-initiated.
 
 ## Disclaimer
 
